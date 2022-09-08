@@ -1,0 +1,15 @@
+stepmotor\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/queue.c
+stepmotor\queue.o: D:\software_root\Keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+stepmotor\queue.o: D:\software_root\Keil5\ARM\ARMCC\Bin\..\include\string.h
+stepmotor\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+stepmotor\queue.o: D:\software_root\Keil5\ARM\ARMCC\Bin\..\include\stddef.h
+stepmotor\queue.o: D:\software_root\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+stepmotor\queue.o: ../Inc/FreeRTOSConfig.h
+stepmotor\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+stepmotor\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+stepmotor\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+stepmotor\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+stepmotor\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+stepmotor\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+stepmotor\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+stepmotor\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h

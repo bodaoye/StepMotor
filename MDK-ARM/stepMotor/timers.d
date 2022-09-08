@@ -1,0 +1,15 @@
+stepmotor\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/timers.c
+stepmotor\timers.o: D:\software_root\Keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+stepmotor\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+stepmotor\timers.o: D:\software_root\Keil5\ARM\ARMCC\Bin\..\include\stddef.h
+stepmotor\timers.o: D:\software_root\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+stepmotor\timers.o: ../Inc/FreeRTOSConfig.h
+stepmotor\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+stepmotor\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+stepmotor\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+stepmotor\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+stepmotor\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+stepmotor\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+stepmotor\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+stepmotor\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h
+stepmotor\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
