@@ -1,0 +1,14 @@
+stepmotorcontrol\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/croutine.c
+stepmotorcontrol\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+stepmotorcontrol\croutine.o: D:\RootSoftWare\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+stepmotorcontrol\croutine.o: D:\RootSoftWare\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+stepmotorcontrol\croutine.o: ../Core/Inc/FreeRTOSConfig.h
+stepmotorcontrol\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+stepmotorcontrol\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+stepmotorcontrol\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+stepmotorcontrol\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+stepmotorcontrol\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+stepmotorcontrol\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+stepmotorcontrol\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+stepmotorcontrol\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/croutine.h
+stepmotorcontrol\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

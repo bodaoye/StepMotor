@@ -1,0 +1,12 @@
+stepmotorcontrol\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/port.c
+stepmotorcontrol\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+stepmotorcontrol\port.o: D:\RootSoftWare\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+stepmotorcontrol\port.o: D:\RootSoftWare\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+stepmotorcontrol\port.o: ../Core/Inc/FreeRTOSConfig.h
+stepmotorcontrol\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+stepmotorcontrol\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+stepmotorcontrol\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+stepmotorcontrol\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+stepmotorcontrol\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+stepmotorcontrol\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+stepmotorcontrol\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
