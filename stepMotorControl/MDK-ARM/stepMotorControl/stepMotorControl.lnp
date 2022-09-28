@@ -3,6 +3,7 @@
 "stepmotorcontrol\main.o"
 "stepmotorcontrol\gpio.o"
 "stepmotorcontrol\freertos.o"
+"stepmotorcontrol\tim.o"
 "stepmotorcontrol\stm32f4xx_it.o"
 "stepmotorcontrol\stm32f4xx_hal_msp.o"
 "stepmotorcontrol\stm32f4xx_hal_timebase_tim.o"

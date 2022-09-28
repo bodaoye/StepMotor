@@ -44,4 +44,5 @@ stepmotorcontrol\main.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/time
 stepmotorcontrol\main.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h
 stepmotorcontrol\main.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/semphr.h
 stepmotorcontrol\main.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/event_groups.h
+stepmotorcontrol\main.o: ../Core/Inc/tim.h
 stepmotorcontrol\main.o: ../Core/Inc/gpio.h
